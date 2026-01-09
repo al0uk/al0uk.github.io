@@ -1,7 +1,7 @@
 ---
 title: Project Writeups
 description: Documentation for my crazy ideas
-image: cover.jpg
+image: cover.webp
 
 # Badge style
 style:

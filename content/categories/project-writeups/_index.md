@@ -6,5 +6,5 @@ image: cover.webp
 # Badge style
 style:
     #background: "#61afef"
-    color: "#fff"
+    #color: "#fff"
 ---

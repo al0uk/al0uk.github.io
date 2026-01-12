@@ -22,7 +22,7 @@ local = true
 src = "img/avatar.webp"
 
 [article]
-headingAnchor = false
+headingAnchor = true
 math = false
 readingTime = true
 

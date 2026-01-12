@@ -7,4 +7,4 @@ categories: project-writeups
 url: /p/bike
 ---
 
-(This writeup is due to be published on January 10th. This page is a placeholder until the final writeup is proofread and published. Thank you for your patience.)
+(This writeup is due to be published on January 13th. This page is a placeholder until the final writeup is proofread and published. Thank you for your patience.)

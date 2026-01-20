@@ -1,13 +1,11 @@
 ---
-title: How I converted a Mountain Bike into an e-bike
-description: I needed a reliable means of transportation during my time at university, I didn't wanna buy a car and I wanted to tinker on something. So what better than to make take a Walmart mountain bike and turn it into an e-bike capable of hauling a full week's worth of groceries across town with ease? 
-date: 2026-01-10 00:00:00+0000
+title: How I converted a mountain bike into an e-bike
+description: I needed a reliable means of transportation during my time at university, I didn't wanna buy a car and I wanted to tinker on something. So what better than to make take a cheap mountain bike and turn it into an e-bike capable of hauling a full week's worth of groceries across town with ease? 
+date: 2026-01-19 00:00:00+0000
 image: cover.webp
 categories: project-writeups
 url: /p/bike
 ---
-
-# The E-bike Writeup
 
 Living as a student in Ann Arbor, Michigan without a car can be a little tricky. The city is plenty walkable for North America, but long distances can become time consuming, especially in periods with fewer buses. You're often limited to shopping at the nearest small grocery store or paying for food delivery with less than spectacular results. So in spring 2025 I bought a mountain bicycle with the intent of making it into an electric bicycle: a way to both get some exercise and travel medium distances with ease.  
 
@@ -17,19 +15,19 @@ Many years ago, when I was in high school, I saw the YouTube Creator Tom Stanton
 
 Additionally there are plenty of practical advantages to an e-bike. There’s no need to pay for parking, pay for expensive insurance for those under 25, fueling is almost free, and maintenance is much more economical and doable alone. It has limitations but even a premium e-bike would cost me far less to run than a moped, especially when considering insurance.
 
-## Why build the e-bike instead of buy?
+## Why build the e-bike instead of buying it?
 
 A pretty reasonable question to ask myself before even starting an e-bike conversion is whether it makes any sense. Especially when considering the final cost of my build was around $3,500 USD (more on the cost breakdown later), one could consider buying an equivalent off the shelf vehicle or even a cheap motorcycle.
 
 I think for the layman this would indeed be the better choice. There’s no work put in and you have something clean, probably more reliable and something with a warranty behind it. However, I wanted to build something very powerful (which no company would sell directly to consumers) and I wanted to gain all the mechanical and electrical knowledge that comes with it. The hands-on experience would be fun, further me on my path to becoming an engineer and in the end give me a sporty yet practical vehicle.
 
-## The Motor, Battery and Frame
+## The motor, battery and frame
 
 For any e-bike conversion the two most important things to consider are what motor you will choose and what bicycle frame you will put it on. Usually one should pick the motor first as that determines how the end result is actually going to propel you and the motor’s size and shape determine what frames are viable. Of course, the motor and frame choice are completely dependent on your use case: how fast you want to go, how you want the motor to behave, what terrain you’ll be going through, etc.
 
 In my opinion the most important thing about the motor’s behavior is whether it’s a hub motor or a mid-drive motor, as this completely changes the needs of your frame and the power delivery. Hub motors are pancake shaped objects that mount (as the name suggests) directly to the hub of the rear wheel of the bicycle and spin the wheel, the same way an electric scooter works. Meanwhile, mid-drive motors are mounted in the bottom bracket (where the pedals of the bicycle attach to) and drive the chain of the bicycle, giving you access to the same gearing system of the bicycle that you have when pedalling normally and giving a more “analog” bicycle experience and the ability to have much higher torque at the same power level.
 
-![Hub Motor](<images/bafang hub motor.jpg>) ![Mid drive](<images/bbshd.jpg>)
+![Hub Motor produced by Bafang, mounted on the hub of a wheel, spinning it directly](<images/bafang hub motor.jpg>) ![Mid drive produced by Bafang mounted on the bottom bracket of the frame, driving the chain](<images/bbshd.jpg>)
 
 In my case, I’m going to be commuting in a city with mostly smooth roads and sidewalks and medium sized hills. I want something high powered enough to be able to keep a good speed when mixed with car traffic, be fun to ride, but also let me put in work comfortably. These factors made me decide that a mid-drive motor between 750W-1000W would work the best for me, as I would be comfortably within the motor’s power limit, would be able to climb hills easily and go for a spirited ride, for reference.
 
@@ -44,9 +42,10 @@ My next step was to scour Facebook Marketplace, Craigslist and all the usual sit
 So what did I decide on? A Walmart bicycle. To most bike enthusiasts this sounds like about the last place you’d want to buy a “real bicycle”, and for the most part they’re right: bicycles sold at big box stores like Walmart are generally cheap, not built to last, have obsolete irreplaceable parts, are not sized for different riders and are generally more of a bike-shaped-object than anything else. However things have been changing recently, Walmart’s camping subbrand Ozark Trail has begun selling some competent mountain bikes with standard interchangeable components and good build quality. They’re made well enough that actual mountain bikers say they’re recommendable to newbies. Thus, I took a trip with a friend who had a car to Ann Arbor’s nearest Walmart (which isn’t even in Ann Arbor) and purchased an Ozark Trail Ridge 29” in Medium.
 
 > Here I am, $421.88 poorer than before I took this picture.
+
 ![Bicycle in front of Walmart Self Checkout Counter](images/purchase.jpg)
 
-## The Build Plan
+## The build plan
 
 Rewinding to before I bought the bicycle, I had prepared a spreadsheet with all of the projected costs, both for myself but more importantly so I could write a grant application to help with the pretty high costs of the project. In the end I did receive this grant, to which I’m super thankful to the University of Michigan as it helped cushion a lot of the expenses and let me avoid any compromises.
 
@@ -66,7 +65,7 @@ However, there was one last thing that I didn’t *need* to do, but I really wan
 
 After all that planning it was time to actually start putting together the bicycle, a journey that I knew would take a long time, in part because summer break 2025 was just around the corner and I was going back home.
 
-## The Build Process
+## The build process
 
 The first thing after buying the bicycle was a general tune-up as the builders at Walmart aren’t necessarily bike mechanics themselves. Shifting and brakes basically always need to be adjusted after purchasing. I cut my teeth (metaphorically) on watching [Park Tool’s excellent youtube videos](https://www.youtube.com/@parktool) while jerry rigging a way to hold my bicycle while working on it in my tiny dorm. I thank William for being such a great roommate during that trying time.
 
@@ -106,11 +105,12 @@ Common Cycle is the local bicycle co-op in Ann Arbor, a wonderful shop where vol
 ![Bicycle floating on bike stand, parts are hanging from it as work is being done](images/hydro%20brake%20wip.jpg)
 
 With my brake swap done I got some fenders to protect myself from getting splashed in the rain. The installation for these was very simple but for some reason the delivery truck didn't arrive to the house and I instead had to bike a good 20 minutes to the nearest UPS pickup center. The worst part was the box didn't fit in my bag, so I had to install the fenders in front of the store.
+
 ![Perspective from the ground of fenders on the floor in front of bicycle](<images/ups fenders 2.jpg>) ![Fenders installed on bicycle with box in front of it](<images/ups fenders 1.jpg>)
 
 After that I swapped the tubes in my bicycle for others. Although these tubes were perfectly fine I planned to put hole sealant in them in case of a flat tire and these tubes didn’t allow me to do that. The new tubes I bought had removable cores in their [presta valves](https://en.wikipedia.org/wiki/Presta_valve?useskin=vector) that allowed me to pump the sealant, which was actually intended for off-road vehicles, into the tire. This was a conceptually simple process, but learning to take the tire off with tire levers and getting the incredibly viscous sealant into the tires was a bit of a pain.
 
-My next upgrade was another major one: swapping the rear cassette (gears), derailleur (gear selector) and shifter. This swap wasn’t incredibly complicated as all the parts on the bicycle were already from the same brand: Microshift, so I was just upgrading from one lineup to another. This was another task where going to Common Cycle made my life much easier, having proper tools to be able to take off the special lockring on the cassette and a bike stand to prop up the wheels while tuning the shifting made it very nice to work. While I was at it I also cut down my handlebar's width by a teeny bit as the original width was a little too wide for me and made it feel larger. 
+My next upgrade was another major one: swapping the rear cassette (gears), derailleur (gear selector) and shifter. This swap wasn’t incredibly complicated as all the parts on the bicycle were already from the same brand: Microshift, so I was just upgrading from one lineup to another. This was another task where going to Common Cycle made my life much easier, having proper tools to be able to take off the special lockring on the cassette and a bike stand to prop up the wheels while tuning the shifting made it very nice to work. While I was at it I also cut down my handlebar's width by a teeny bit as the original width was a little too wide for me and made it feel larger.
 
 ![Rear bicycle wheel with cassette missing](<images/no cassette.jpg>) ![Bicycle handlebars in a vice with a guide for a hacksaw](<images/handlebar chop.jpg>)
 
@@ -134,32 +134,34 @@ After a 40 minute walk back home I was able to start placing the motor only to d
 
 Either way with this small test run in hand and a long list of issues to fix, I got to work. I was able to remove the crank arms with my own tool this time and reinstall them properly. I checked in on the shifting but ran out of cable slack so I left the derailleur untensioned. Then the next day I woke up to find that the derailleur, which was free to move inwards, had now slammed itself into the spokes of my wheels and very violently dismembered itself. Fixing this involved ordering another derailleur and shifter cable and waiting a few more days to reinstall it.  Frustrated, now having gone almost a week without a bike, I had become a bit impatient. I slept very little those days so it’s hard for me to recollect all the details of what happened, but I wasn’t able to get the shifting working correctly. I thought maybe my derailleur was too short for the large front sprocket the new motor had and bought a bigger one: no dice. I eventually concluded that the previous derailleur mangling incidents had left my derailleur hanger bent, so no amount of swaps would fix it. I ordered one online, but that would take another two weeks to arrive: not good. Thankfully I was able to go to Common Cycle and use their derailleur alignment tool to bend mine back into working shape and tune the shifting there. Somewhat unexpectedly my awesome e-bike had become fully operational, all in time for lunch with a friend that very same day.
 
-![Image of the bicycle, a sign saying Common Cycle is visible](<images/post common cycle.jpg>)
+![Bicycle in a parking lot, a sign saying Common Cycle is visible to the right](<images/post common cycle.jpg>)
 
 > Below is a short timelapse of all my work after getting the bottom bracket out
-{{{< YOUTUBE JrQWHY84mLE>}}}
+
+{{< YOUTUBE JrQWHY84mLE>}}
 
 However, this is not where the story ends. Just because the motor is running doesn’t mean my work is done, I still have a few more things to finish up: namely my storage situation. I always wanted more storage than the microscopic multitool strap I had on my bike, but I knew any realistic amount of bags would be too much of a burden on my legs which were already cramping on the hills of UM’s North Campus, however now that I was electrified it was a completely different story. I could practically beat the blue buses, carrying a few pounds of bags was no big deal and would finally free me from carrying my ginormous lock in my backpack plus allow me to do grocery shopping without attaching bags to my handlebars and trying not to steer into innocent pedestrians. Thus the rack and quick release panniers were installed onto the bike. Additionally, I added some very rugged straps to be able to carry oversize loads. It was basically complete\!
 
-![Image of bicycle inside of house with rear rack and bags installed](<images/bags installed.jpg>)
+![Bicycle inside of a house with rear rack and bags installed](<images/bags installed.jpg>)
 
 ***The Bad and the Ugly***
 
 I started running the bike daily, sometimes getting up to 10 miles of biking done in a day. I enjoyed the life out of the bike and it was a hoot and a half. However, around the 100 mile mark the motor’s controller unexpectedly died on me on the way back home.
 
-![Image of the controller's display showing the message "Controller Mosfet Fail"](<images/mosfet fail.jpg>)
+![E-bike display showing the message "Controller Mosfet Fail"](<images/mosfet fail.jpg>)
 
 Thankfully it died out just a few blocks from my house. I parked the bike and then skipped my club meeting, too depressed to go. I had previously heard about controller failures on ToSeven motors, people seemed to speculate whether new firmware or hardware was the cause of failures, but I always kept my fingers crossed and hoped it wouldn’t happen to me. Yet here it was in front of my face: a controller death. Thus I emailed my motor seller hoping to have it warrantied and resigned myself to the bus once more.
 
 Soon after, I was sent a replacement controller which I promptly replaced once I got back from thanksgiving break and I made sure to update it to the latest firmware, as I had with the previous one.
 
-![Hand holding the motor controller: a half donut shaped objects with wires outside of it](<images/new controller.jpg>) ![Image of the bottom area of the bicycle with the controller missing, the old and new controller are on the floor](<images/controller swap.jpg>)
+![Hand holding the motor controller: a half donut shaped objects with wires outside of it](<images/new controller.jpg>) ![Bottom area of the bicycle with the controller missing, the old and new controller are on the floor](<images/controller swap.jpg>)
 
 So we’re done… right? Unfortunately, there’s always one last thing with these projects… however I promise you this one’s simple.
 
 My headlight is battery powered and I don’t ever want to run the risk of it dying on me, so I want a USB-C charger that runs off of the high voltage battery so I only ever need to charge one thing, plus I want it to serve as a fast charger for my phone as well. Finding something that fit the bill was actually surprisingly difficult, as it had to be able to convert 52v into a USB PD compatible output, a bit of a weird ask, but one order from China later and some daisy chaining, I was able to get it all done. I split off the charge power port from the battery using a Y cable and left one end with a cover for charger and the other connected to my USB fast charging setup, complete with a coiled cable and silicone covers on everything for dust/water protection.
 
 > Here’s a mockup before I had it all installed
+
 ![A set of wires on the floor in order](<images/charger mockup.jpg>)
 
 Unfortunately, with the snow upon me in December, I decided to relegate the bike to the house, as my nerves about ice on the ground were still quite intense. Then, as I started the Winter 2026 semester, I began to bike once more and enjoy the lovely life with my bike when once again… the curse struck. Just as I got to my house, finishing the last hill to climb, the motor died. I’m starting to think that there’s a quarter mile field around my house that destroys e-bikes or something.
@@ -168,13 +170,13 @@ As I write this, the bike has died its second death and it seems this time, the 
 
 **How does it ride?**
 
-Amazing\! Especially at higher tire pressures with my staggered tire setup it feels incredibly stable and the suspension is great. The bicycle can keep you doing exercise even while you soar past hills at high speeds. It’s even practical enough to do some very big shopping with it. I once did a whole trip to Aldi where I bought a huge rack of chicken plus toilet paper and it actually all fit, although a bit tight.
+Amazing! Especially at higher tire pressures with my staggered tire setup it feels incredibly stable and the suspension is great. The bicycle can keep you doing exercise even while you soar past hills at high speeds. It’s even practical enough to do some very big shopping with it. I once did a whole trip to Aldi where I bought a huge rack of chicken plus toilet paper and it actually all fit, although a bit tight.
 
-![Image of the bicycle at an Aldi bicycle parking, the panniers are full and the rack has a box of toilet paper on top](<images/aldi trip.jpg>)
+![Bicycle at an Aldi bicycle parking, the panniers are full and the rack has a box of toilet paper on top](<images/aldi trip.jpg>)
 
 I would love to have a small riding demo video here, but unfortunately as the bike is dead at the moment I haven’t been able to record anything new.
 
-## The Bottom Line
+## The bottom line
 
 Building this bike has been a dream years in the making, ever since I first saw that Tom Stanton video some 6 or 7 years ago. It’s crazy to think that I actually own the chain destroying, tire shredding rugged e-bike I dreamed of all those years ago, but here it is. I love the crap out of it and exercising with it has genuinely been great for my health, both mental and physical.
 
@@ -182,9 +184,11 @@ Is it the best value e-bike? No, I think you can get something more reliable tha
 
 That said, I think this bike rides great, it’s very fun and if you can deal with its newly added weight it’s probably still a sick mountain bike. I think I could have slashed the budget a little bit with some wiser part choices or maybe finding a bike that already had an air fork and hydraulic brakes, or possibly gone for a smaller motor, but I am really happy with what I ended up with and I feel it’s a showpiece for something I’ve really put my blood, sweat and tears into.
 
-## Special Thanks
+## Special thanks
 
 - Big thanks to my dad who helped me pay for the vast majority of the parts for this project.
+
+- Thanks to Eddie who drove me to Walmart on a random day of the week and shoved my bike in his car.
 
 - Thanks to the University of Michigan who gave me a great grant which let me take some of the financial weight off of my family as I built this bike.
 

@@ -102,7 +102,7 @@ Now time for the brake swap. The ones I chose for these were the Shimano MT520, 
 
 Common Cycle is the local bicycle co-op in Ann Arbor, a wonderful shop where volunteers come in to help people fix their bicycles. In my case I tend to come to Common Cycle when I’m missing a tool or doing something that requires a little more expertise or assistance: in this case a brake swap. So I went over to Common Cycle, brought my bike, my brakes and got to work. It took about 3 hours due to not exactly being sure how everything went together, but the volunteers were incredibly kind, helpful and commended me on my initiative. The only blemish on my work was that the rear brake required cutting the cable as it’s oversized and I lost a bit of brake fluid during this which left it feeling a bit softer than it should have been. I would later have to bring this into a shop to have it bled of fluid and refilled as the equipment for brake bleeding is a little expensive if you just need it done once, plus the process is messy and error prone.
 
-![Bicycle floating on bike stand, parts are hanging from it as work is being done](images/hydro%20brake%20wip.jpg)
+![Bicycle floating on bike stand, parts are hanging from it as work is being done](<images/hydro brake wip.jpg>)
 
 With my brake swap done I got some fenders to protect myself from getting splashed in the rain. The installation for these was very simple but for some reason the delivery truck didn't arrive to the house and I instead had to bike a good 20 minutes to the nearest UPS pickup center. The worst part was the box didn't fit in my bag, so I had to install the fenders in front of the store.
 

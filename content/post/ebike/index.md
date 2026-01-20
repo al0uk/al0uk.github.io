@@ -144,7 +144,7 @@ However, this is not where the story ends. Just because the motor is running doe
 
 ![Bicycle inside of a house with rear rack and bags installed](<images/bags installed.jpg>)
 
-***The Bad and the Ugly***
+### The Bad and the Ugly
 
 I started running the bike daily, sometimes getting up to 10 miles of biking done in a day. I enjoyed the life out of the bike and it was a hoot and a half. However, around the 100 mile mark the motor’s controller unexpectedly died on me on the way back home.
 

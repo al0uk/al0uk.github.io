@@ -160,11 +160,13 @@ So we’re done… right? Unfortunately, there’s always one last thing with th
 
 My headlight is battery powered and I don’t ever want to run the risk of it dying on me, so I want a USB-C charger that runs off of the high voltage battery so I only ever need to charge one thing, plus I want it to serve as a fast charger for my phone as well. Finding something that fit the bill was actually surprisingly difficult, as it had to be able to convert 52v into a USB PD compatible output, a bit of a weird ask, but one order from China later and some daisy chaining, I was able to get it all done. I split off the charge power port from the battery using a Y cable and left one end with a cover for charger and the other connected to my USB fast charging setup, complete with a coiled cable and silicone covers on everything for dust/water protection.
 
-![A mockup of the phone phone charging setup on the floor](<images/charger mockup.jpg>)
+![A mockup of the phone charging setup on the floor, the cables are in order](<images/charger mockup.jpg>)
+
+![Bicycle on the border to border trail in Ann Arbor, the sun is setting](<images/b2b bike.jpg>) ![Bicycle near a frosty lake](<images/smtd bike.jpg>)
 
 Unfortunately, with the snow upon me in December, I decided to relegate the bike to the house, as my nerves about ice on the ground were still quite intense. Then, as I started the Winter 2026 semester, I began to bike once more and enjoy the lovely life with my bike when once again… the curse struck. Just as I got to my house, finishing the last hill to climb, the motor died. I’m starting to think that there’s a quarter mile field around my house that destroys e-bikes or something.
 
-As I write this, the bike has died its second death and it seems this time, the motor is out of commission for good. I completely lost power on from the motor, unusually, no warnings are on the display but no amount of input causes the motor to power on: even the display agrees we’re outputting 0 watts. At the moment I’m not quite sure what’s up and I’m talking with the seller of my motor who had warrantied me before to see what can be done. I’ll be sure to update this post as I figure it out. Maybe I’ll get a replacement controller, new motor or maybe I’ll buy something different entirely, who knows\!
+As I write this, the bike has died its second death and it seems this time, the motor is out of commission for good. I completely lost power on from the motor, unusually, no warnings are on the display but no amount of input causes the motor to power on: even the display agrees we’re outputting 0 watts. At the moment I’m not quite sure what’s up and I’m talking with the seller of my motor who had warrantied me before to see what can be done. I’ll be sure to update this post as I figure it out. Maybe I’ll get a replacement controller, new motor or maybe I’ll buy something different entirely, who knows!
 
 **How does it ride?**
 

@@ -166,11 +166,12 @@ Unfortunately, with the snow upon me in December, I decided to relegate the bike
 
 As I write this, the bike has died its second death and it seems this time, the motor is out of commission for good. I completely lost power on from the motor, unusually, no warnings are on the display but no amount of input causes the motor to power on: even the display agrees we’re outputting 0 watts. At the moment I’m not quite sure what’s up and I’m talking with the seller of my motor who had warrantied me before to see what can be done. I’ll be sure to update this post as I figure it out. Maybe I’ll get a replacement controller, new motor or maybe I’ll buy something different entirely, who knows!
 
-**How does it ride?**
+## How does it ride?
 
 Amazing! Especially at higher tire pressures with my staggered tire setup it feels incredibly stable and the suspension is great. The bicycle can keep you doing exercise even while you soar past hills at high speeds. It’s even practical enough to do some very big shopping with it. I once did a whole trip to Aldi where I bought a huge rack of chicken plus toilet paper and it actually all fit, although a bit tight.
 
-![Bicycle at an Aldi bicycle parking, the panniers are full and the rack has a box of toilet paper on top](<images/aldi trip.jpg>)
+![Shopping cart with two bags filled with items and twelve rolls of toilet paper](<images/aldi cart.jpg>) ![Bicycle at an Aldi bicycle parking, the panniers are full and the rack has a box of toilet paper on top](<images/aldi trip.jpg>)
+
 ![Bicycle on the border to border trail in Ann Arbor, the sun is setting](<images/b2b bike.jpg>) ![Bicycle near a frosty lake](<images/smtd bike.jpg>)
 
 I would love to have a small riding demo video here, but unfortunately as the bike is dead at the moment I haven’t been able to record anything new. If I do make a formal riding video, hopefully comparing it to my friend's "manual" bicycle, I'll be sure to add it to this section.
@@ -181,7 +182,7 @@ Building this bike has been a dream years in the making, ever since I first saw 
 
 Is it the best value e-bike? No, I think you can get something more reliable that doesn’t push as much peak power and be just as practical. If you want to just go fast you can get a used motorcycle for what I bought, or heck, probably make your own low-power e-moto or moped class vehicle if you know what you’re doing. If anything, I think you should get a cargo or longtail e-bike (something like an electrified longtail or bakfiet style bike) and you could probably be even more practical than what I’ve shown, possibly even carry kids around.
 
-That said, I think this bike rides great, it’s very fun and if you can deal with its newly added weight it’s probably still a sick mountain bike. I think I could have slashed the budget a little bit with some wiser part choices or maybe finding a bike that already had an air fork and hydraulic brakes, or possibly gone for a smaller motor, but I am really happy with what I ended up with and I feel it’s a showpiece for something I’ve really put my blood, sweat and tears into.
+That said, I think this bike rides great, it’s very fun and if you can deal with its newly added weight it’s probably still a sick mountain bike. I think I could have slashed the budget a little bit with some wiser part choices, better value initial bike or compromised on power but I am really happy with what I ended up with and I feel it’s a showpiece for something I’ve really put my blood, sweat and tears into.
 
 ## Special thanks
 

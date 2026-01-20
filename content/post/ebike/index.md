@@ -41,9 +41,9 @@ My next step was to scour Facebook Marketplace, Craigslist and all the usual sit
 
 So what did I decide on? A Walmart bicycle. To most bike enthusiasts this sounds like about the last place you’d want to buy a “real bicycle”, and for the most part they’re right: bicycles sold at big box stores like Walmart are generally cheap, not built to last, have obsolete irreplaceable parts, are not sized for different riders and are generally more of a bike-shaped-object than anything else. However things have been changing recently, Walmart’s camping subbrand Ozark Trail has begun selling some competent mountain bikes with standard interchangeable components and good build quality. They’re made well enough that actual mountain bikers say they’re recommendable to newbies. Thus, I took a trip with a friend who had a car to Ann Arbor’s nearest Walmart (which isn’t even in Ann Arbor) and purchased an Ozark Trail Ridge 29” in Medium.
 
-> Here I am, $421.88 poorer than before I took this picture.
+> Here I am: $421.88 poorer than before I took this picture.
 
-![Bicycle in front of Walmart Self Checkout Counter](images/purchase.jpg)
+![Bicycle in front of Walmart's self checkout counter](images/purchase.jpg)
 
 ## The build plan
 
@@ -160,9 +160,7 @@ So we’re done… right? Unfortunately, there’s always one last thing with th
 
 My headlight is battery powered and I don’t ever want to run the risk of it dying on me, so I want a USB-C charger that runs off of the high voltage battery so I only ever need to charge one thing, plus I want it to serve as a fast charger for my phone as well. Finding something that fit the bill was actually surprisingly difficult, as it had to be able to convert 52v into a USB PD compatible output, a bit of a weird ask, but one order from China later and some daisy chaining, I was able to get it all done. I split off the charge power port from the battery using a Y cable and left one end with a cover for charger and the other connected to my USB fast charging setup, complete with a coiled cable and silicone covers on everything for dust/water protection.
 
-> Here’s a mockup before I had it all installed
-
-![A set of wires on the floor in order](<images/charger mockup.jpg>)
+![A mockup of the phone phone charging setup on the floor](<images/charger mockup.jpg>)
 
 Unfortunately, with the snow upon me in December, I decided to relegate the bike to the house, as my nerves about ice on the ground were still quite intense. Then, as I started the Winter 2026 semester, I began to bike once more and enjoy the lovely life with my bike when once again… the curse struck. Just as I got to my house, finishing the last hill to climb, the motor died. I’m starting to think that there’s a quarter mile field around my house that destroys e-bikes or something.
 
@@ -174,7 +172,7 @@ Amazing! Especially at higher tire pressures with my staggered tire setup it fee
 
 ![Bicycle at an Aldi bicycle parking, the panniers are full and the rack has a box of toilet paper on top](<images/aldi trip.jpg>)
 
-I would love to have a small riding demo video here, but unfortunately as the bike is dead at the moment I haven’t been able to record anything new.
+I would love to have a small riding demo video here, but unfortunately as the bike is dead at the moment I haven’t been able to record anything new. If I do make a formal riding video, hopefully comparing it to my friend's "manual" bicycle, I'll be sure to add it to this section.
 
 ## The bottom line
 
@@ -229,4 +227,4 @@ I’m happy to ride in cold conditions but I try to avoid snow/salt as much as p
 
 A good amount but probably light compared to an equivalent e-bike from a manufacturer. I’d estimate it weighs 70-80lbs just from the weight of the bike when stock, motor and battery all added together and some margin of error. If you’re really curious then just mail me a fish scale and I’ll measure it.
 
-[^1]:  Technically this is actually the revolutions of the crank, the pedals are connected to the crank arms which rotate around the crank but the pedals themselves only rotate with your foot’s orientation
+[^1]: Technically this is actually the revolutions of the crank, the pedals are connected to the crank arms which rotate around the crank but the pedals themselves only rotate with your foot’s orientation, but I think most people understand this to be the same thing.

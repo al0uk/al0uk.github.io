@@ -162,8 +162,6 @@ My headlight is battery powered and I don’t ever want to run the risk of it dy
 
 ![A mockup of the phone charging setup on the floor, the cables are in order](<images/charger mockup.jpg>)
 
-![Bicycle on the border to border trail in Ann Arbor, the sun is setting](<images/b2b bike.jpg>) ![Bicycle near a frosty lake](<images/smtd bike.jpg>)
-
 Unfortunately, with the snow upon me in December, I decided to relegate the bike to the house, as my nerves about ice on the ground were still quite intense. Then, as I started the Winter 2026 semester, I began to bike once more and enjoy the lovely life with my bike when once again… the curse struck. Just as I got to my house, finishing the last hill to climb, the motor died. I’m starting to think that there’s a quarter mile field around my house that destroys e-bikes or something.
 
 As I write this, the bike has died its second death and it seems this time, the motor is out of commission for good. I completely lost power on from the motor, unusually, no warnings are on the display but no amount of input causes the motor to power on: even the display agrees we’re outputting 0 watts. At the moment I’m not quite sure what’s up and I’m talking with the seller of my motor who had warrantied me before to see what can be done. I’ll be sure to update this post as I figure it out. Maybe I’ll get a replacement controller, new motor or maybe I’ll buy something different entirely, who knows!
@@ -173,6 +171,7 @@ As I write this, the bike has died its second death and it seems this time, the 
 Amazing! Especially at higher tire pressures with my staggered tire setup it feels incredibly stable and the suspension is great. The bicycle can keep you doing exercise even while you soar past hills at high speeds. It’s even practical enough to do some very big shopping with it. I once did a whole trip to Aldi where I bought a huge rack of chicken plus toilet paper and it actually all fit, although a bit tight.
 
 ![Bicycle at an Aldi bicycle parking, the panniers are full and the rack has a box of toilet paper on top](<images/aldi trip.jpg>)
+![Bicycle on the border to border trail in Ann Arbor, the sun is setting](<images/b2b bike.jpg>) ![Bicycle near a frosty lake](<images/smtd bike.jpg>)
 
 I would love to have a small riding demo video here, but unfortunately as the bike is dead at the moment I haven’t been able to record anything new. If I do make a formal riding video, hopefully comparing it to my friend's "manual" bicycle, I'll be sure to add it to this section.
 

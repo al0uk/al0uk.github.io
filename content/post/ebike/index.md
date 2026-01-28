@@ -2,9 +2,10 @@
 title: How I converted a mountain bike into an e-bike
 description: I needed a reliable means of transportation during my time at university, I didn't wanna buy a car and I wanted to tinker on something. So what better than to make take a cheap mountain bike and turn it into an e-bike capable of hauling a full week's worth of groceries across town with ease? 
 date: 2026-01-19 00:00:00+0000
+lastmod: 2026-01-28 00:00:00+0000
 image: cover.webp
 categories: project-writeups
-url: /p/bike
+slug: bike
 ---
 
 Living as a student in Ann Arbor, Michigan without a car can be a little tricky. The city is plenty walkable for North America, but long distances can become time consuming, especially in periods with fewer buses. You're often limited to shopping at the nearest small grocery store or paying for food delivery with less than spectacular results. So in spring 2025 I bought a mountain bicycle with the intent of making it into an electric bicycle: a way to both get some exercise and travel medium distances with ease.  
@@ -120,6 +121,10 @@ Once back, I hit the ground running as the completion of the custom battery I ha
 
 However before I got the chance to do much, I had a small crash as the semester started. Nothing terrible, it was just me falling off the bike for no good reason. I had decided I wanted to try going up on a high surface and I got my wheel stuck and fell sideways, got a small scrape, but nothing bad. Unfortunately one of the screws on the saddle flew off.I was able to get the saddle back on its frame but it probably wasn’t going to last much longer after that so I quickly found a replacement and swapped it in and all was well.
 
+> I walked away pretty easily all told
+
+![Elbow of person with large bandage visible](images/injury.jpg)
+
 When my planned upgrades arrived in the mail I loaded up my backpack with my oversized Suntour Epixon sticking out and headed for Common Cycle. Once there, the always friendly volunteers helped me undo all my handlebar stuff, remove the fork, grab my new one, cut it down to the correct length, install it, and then set the air pressure to the correct amount for my rider weight. This was all a lengthy process but it went quite smoothly, thanks to the advice of one of the volunteers, a former bike shop employee. The new fork performed great, had about 2cm more of suspension travel, weighed about 2 pounds less and gave the whole bike a different feel entirely. This feeling likely isn’t just because of the weight changes but likely due to the fact that the 2cm more of travel also raises the front of the bike by that much, making it just slightly longer and “slacker” geometrically, better for stability.
 
 During this final stage of pre-electrification I also took the time to swap out the stock mountain bike tires on the bicycle for two more road focused tires from Schawlbe. On the front I used the Al Grounder, a more 50/50 dirt/road tire based on scrambler motorcycles and on the rear I used a Super Moto tire on the rear for maximum grip on the driven wheel. These tires combined with higher tire pressures gave the bike a super planted feeling that I definitely missed once I swapped back to dirt tires for the winter.
@@ -164,7 +169,7 @@ My headlight is battery powered and I don’t ever want to run the risk of it dy
 
 Unfortunately, with the snow upon me in December, I decided to relegate the bike to the house, as my nerves about ice on the ground were still quite intense. Then, as I started the Winter 2026 semester, I began to bike once more and enjoy the lovely life with my bike when once again… the curse struck. Just as I got to my house, finishing the last hill to climb, the motor died. I’m starting to think that there’s a quarter mile field around my house that destroys e-bikes or something.
 
-As I write this, the bike has died its second death and it seems this time, the motor is out of commission for good. I completely lost power on from the motor, unusually, no warnings are on the display but no amount of input causes the motor to power on: even the display agrees we’re outputting 0 watts. At the moment I’m not quite sure what’s up and I’m talking with the seller of my motor who had warrantied me before to see what can be done. I’ll be sure to update this post as I figure it out. Maybe I’ll get a replacement controller, new motor or maybe I’ll buy something different entirely, who knows!
+As of this article's original publication the bike had died once more, completely losing power up a hill without any display warnings to indicate why. After contacting my vendor and waiting a while I received the advice to check the connector for the [hall effect sensor](https://en.wikipedia.org/wiki/Hall_effect_sensor?useskin=vector#Brushless_motors) on the controller. I checked it and although it wasn't disconnected, replugging it and restarting did make the motor work again! I have updated the bike to the latest control firmware, but given the amount of snow at this time of year (it's January), I still haven't had a good test ride on the bike. For now this is where it stands
 
 ## How does it ride?
 
@@ -174,7 +179,7 @@ Amazing! Especially at higher tire pressures with my staggered tire setup it fee
 
 ![Bicycle on the border to border trail in Ann Arbor, the sun is setting](<images/b2b bike.jpg>) ![Bicycle near a frosty lake](<images/smtd bike.jpg>)
 
-I would love to have a small riding demo video here, but unfortunately as the bike is dead at the moment I haven’t been able to record anything new. If I do make a formal riding video, hopefully comparing it to my friend's "manual" bicycle, I'll be sure to add it to this section.
+I would love to have a small riding demo video here, but unfortunately since there's a lot of snow on the ground I haven’t been able to record anything new. If I do make a formal riding video, hopefully comparing it to my friend's "acoustic" bicycle, I'll be sure to add it to this section.
 
 ## The bottom line
 

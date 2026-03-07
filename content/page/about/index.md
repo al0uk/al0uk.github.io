@@ -2,7 +2,7 @@
 title: "About me & info"
 linkTitle: "About"
 slug: "about"
-date: 2026-03-7 00:00:00+0000
+date: 2026-03-07 00:00:00+0000
 menu:
     main:
         weight: 5

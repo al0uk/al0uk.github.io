@@ -1,8 +1,9 @@
 ---
-title: "About me & info"
+title: "About me"
 linkTitle: "About"
 slug: "about"
 date: 2026-03-07 00:00:00+0000
+readingTime: false
 menu:
     main:
         weight: 5
@@ -14,6 +15,6 @@ Hi I'm Alex! I'm a Mechanical Engineering student but also a maker and musician 
 
 This site is where I professionally but genuinely document my interesting and sometimes odd projects. If you're interested in knowing more about any of my writings or have an idea for me, feel free to send me an email so we can talk further.
 
-Non-university email: **alouk0 \[at\] pm \[dot\] me**
+Non-university email: `alouk0 [at] pm [dot] me`
 
 \*Note this email is not super closely monitored since I only use it for personal communications so it may take some time to get back to you
